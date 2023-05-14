@@ -3,7 +3,7 @@ title: 'درباره من'
 date: '2022-05-14'
 ---
 
-![me.jpg](https://github.com/CodingWithEnjoy/CodingWithEnjoy.github.io/assets/113675029/53cfc762-0930-4e19-88c8-aab8e19f8915)
+![me.jpg](https://github-production-user-asset-6210df.s3.amazonaws.com/113675029/238200709-aa535707-2451-4f92-9acc-6cd453fb4794.jpg)
 
 سلام :)
 من امیرمسعودم و میخوام یه مقداری برم بالا منبر و درباره این چهار پنج سال تجربه ای که داشتم، صحبت کنم
